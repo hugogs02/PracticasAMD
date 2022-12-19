@@ -1,0 +1,655 @@
+"country","year","totalcases"
+"Marshall Islands",2022,14
+"Marshall Islands",2021,0
+"Marshall Islands",2020,4
+"Dominica",2022,8079
+"Dominica",2021,6334
+"Dominican Republic",2020,173331
+"Dominica",2020,96
+"Puerto Rico",2020,78805
+"Azerbaijan",2021,390053
+"Dominican Republic",2021,238552
+"Azerbaijan",2020,220265
+"Dominican Republic",2022,167769
+"Azerbaijan",2022,175191
+"Luxembourg",2022,168980
+"Luxembourg",2021,63333
+"Puerto Rico",2021,117062
+"Sint Maarten",2022,5013
+"Puerto Rico",2022,413252
+"Sint Maarten",2021,3234
+"Sint Maarten",2020,1462
+"Yemen",2020,2105
+"Yemen",2022,1692
+"Israel",2020,442187
+"Yemen",2021,7996
+"Israel",2021,914014
+"Israel",2022,2787906
+"Belgium",2021,1480975
+"Belgium",2020,651435
+"Luxembourg",2020,45922
+"Sao Tome And Principe",2022,2106
+"Sao Tome And Principe",2020,1024
+"Belgium",2022,2038376
+"Sao Tome And Principe",2021,2718
+"Saudi Arabia",2021,187687
+"Saudi Arabia",2022,219131
+"Liberia",2022,1056
+"Liberia",2021,4116
+"Liberia",2020,1800
+"Niger",2022,1724
+"Saudi Arabia",2020,363155
+"Niger",2020,3465
+"Niger",2021,3734
+"Mongolia",2022,232433
+"Mongolia",2021,686146
+"Mongolia",2020,1286
+"Gibraltar",2022,9879
+"Gibraltar",2021,5416
+"Gibraltar",2020,2406
+"British Virgin Islands",2021,2792
+"Seychelles",2020,297
+"British Virgin Islands",2022,3831
+"Seychelles",2021,23831
+"British Virgin Islands",2020,97
+"Trinidad And Tobago",2021,78669
+"Trinidad And Tobago",2022,71726
+"Kuwait",2021,262755
+"Kuwait",2020,151343
+"Zambia",2020,21993
+"Ireland",2022,777357
+"Zambia",2022,63242
+"Trinidad And Tobago",2020,7168
+"Zambia",2021,194515
+"Central African Republic",2022,2258
+"Lithuania",2021,419746
+"Venezuela",2022,80679
+"Kuwait",2022,217536
+"Lithuania",2020,146808
+"Central African Republic",2020,4963
+"Venezuela",2020,114407
+"Central African Republic",2021,6998
+"Lithuania",2022,835506
+"Venezuela",2021,326821
+"Lebanon",2020,189278
+"Saint Vincent And The Grenadines",2022,2904
+"Lebanon",2021,511665
+"Saint Vincent And The Grenadines",2021,5634
+"Lebanon",2022,368376
+"Ireland",2021,664584
+"Saint Vincent And The Grenadines",2020,124
+"Ireland",2020,107907
+"Cape Verde",2020,11920
+"Eritrea",2021,6400
+"Cape Verde",2021,26669
+"Eritrea",2022,1998
+"Sweden",2020,462362
+"Sweden",2021,884907
+"Sweden",2022,1164243
+"Jamaica",2022,44724
+"Jamaica",2021,79040
+"Cape Verde",2022,13369
+"Jamaica",2020,13049
+"Seychelles",2022,19112
+"Eritrea",2020,1363
+"Senegal",2022,10499
+"Senegal",2021,54358
+"Senegal",2020,19803
+"Georgia",2022,719657
+"Ethiopia",2022,52307
+"Georgia",2021,680693
+"Ethiopia",2021,250753
+"Ethiopia",2020,125622
+"Germany",2022,19629760
+"Germany",2021,5440970
+"Vietnam",2022,8952836
+"Germany",2020,1783659
+"Vietnam",2021,1538981
+"Georgia",2020,229763
+"Vietnam",2020,1497
+"Gambia",2020,3806
+"Gambia",2021,6245
+"Belarus",2021,485500
+"Netherlands",2021,2344897
+"Belarus",2022,281168
+"Netherlands",2022,4941558
+"Belarus",2020,199962
+"Netherlands",2020,819690
+"Thailand",2022,2254179
+"Greece",2021,1141560
+"Greece",2020,141918
+"Greece",2022,2220106
+"Indonesia",2020,758473
+"Indonesia",2021,3502071
+"Indonesia",2022,1797911
+"Italy",2020,2210927
+"Italy",2021,4355180
+"Italy",2022,11192688
+"Guatemala",2021,485139
+"Thailand",2021,2185614
+"Comoros",2020,864
+"Guatemala",2020,138656
+"Malawi",2022,10041
+"Thailand",2020,8439
+"Comoros",2021,3813
+"Solomon Islands",2020,17
+"Comoros",2022,1224
+"Guatemala",2022,242459
+"Solomon Islands",2021,3
+"Solomon Islands",2022,21213
+"Gabon",2022,9779
+"Gambia",2022,1832
+"Malawi",2021,57897
+"Malawi",2020,6844
+"Benin",2021,21656
+"Guernsey",2021,5517
+"Benin",2022,2017
+"Guernsey",2022,17789
+"Micronesia (Federated States Of)",2022,34
+"Benin",2020,3251
+"Guernsey",2020,300
+"Micronesia (Federated States Of)",2021,0
+"Bonaire, Saint Eustatius And Saba",2020,241
+"Bonaire, Saint Eustatius And Saba",2021,2930
+"Bonaire, Saint Eustatius And Saba",2022,6601
+"United Kingdom",2020,2839928
+"Northern Mariana Islands",2022,8106
+"United Kingdom",2021,9900675
+"United Kingdom",2022,8264189
+"Northern Mariana Islands",2021,2300
+"Northern Mariana Islands",2020,122
+"Laos",2020,41
+"Laos",2021,94513
+"Laos",2022,102407
+"Namibia",2022,18707
+"Namibia",2020,25386
+"Namibia",2021,114132
+"Samoa",2020,1
+"Western Sahara",2022,0
+"Samoa",2021,1
+"Western Sahara",2021,0
+"Samoa",2022,14185
+"Western Sahara",2020,766
+"Honduras",2020,123369
+"Honduras",2022,46288
+"Slovakia",2022,1167024
+"Honduras",2021,255435
+"Slovakia",2021,1087328
+"Slovakia",2020,290071
+"Spain",2022,5659952
+"Spain",2020,2020103
+"Spain",2021,4871034
+"Barbados",2021,26636
+"Barbados",2022,53158
+"Barbados",2020,606
+"Palestine",2022,187223
+"Palestine",2021,306282
+"Palestine",2020,160043
+"Hungary",2021,933547
+"Hungary",2022,660844
+"Hungary",2020,328812
+"Timor Leste",2022,3094
+"Timor Leste",2021,19789
+"Jordan",2020,298208
+"United States Of America",2020,20640214
+"Jordan",2021,742035
+"Jordan",2022,631700
+"Mexico",2021,2485347
+"Qatar",2021,101893
+"Mexico",2020,1448755
+"Qatar",2020,144644
+"Mexico",2022,1833257
+"Qatar",2022,120345
+"Paraguay",2020,109073
+"Vanuatu",2020,1
+"United Arab Emirates",2022,147888
+"Vanuatu",2022,10568
+"Turks And Caicos Islands",2020,910
+"Vanuatu",2021,6
+"Turks And Caicos Islands",2021,2262
+"United Arab Emirates",2020,214732
+"Turks And Caicos Islands",2022,2600
+"United Arab Emirates",2021,529405
+"Iceland",2022,160980
+"Iceland",2021,25243
+"Afghanistan",2021,104888
+"Bolivia",2022,330945
+"Afghanistan",2022,22964
+"Bolivia",2021,402086
+"Bolivia",2020,162661
+"Afghanistan",2020,52909
+"Cambodia",2020,382
+"Cambodia",2021,120034
+"Cambodia",2022,15752
+"Guam",2022,30431
+"Guam",2021,12063
+"Guam",2020,7327
+"Albania",2021,146339
+"Iceland",2020,5816
+"Albania",2022,65846
+"Panama",2020,253736
+"Panama",2021,229650
+"Albania",2020,59438
+"Panama",2022,392564
+"Greenland",2021,1942
+"Monaco",2021,3516
+"North Macedonia",2021,137261
+"Greenland",2022,9041
+"Monaco",2020,907
+"North Macedonia",2022,86877
+"Monaco",2022,7197
+"North Macedonia",2020,84024
+"Greenland",2020,27
+"Russia",2020,3260138
+"Russia",2021,6954652
+"Russia",2022,7825274
+"Belize",2020,10901
+"Paraguay",2022,186480
+"Belize",2021,20393
+"Paraguay",2021,355557
+"Belize",2022,27693
+"Egypt",2020,142187
+"Egypt",2021,233143
+"Egypt",2022,126849
+"China",2022,443084
+"China",2021,16776
+"China",2020,96213
+"Brunei Darussalam",2022,137632
+"Cook Islands",2022,5717
+"Brunei Darussalam",2021,15204
+"Brunei Darussalam",2020,172
+"Lesotho",2020,3206
+"Bahamas",2022,11812
+"Palau",2022,5132
+"Antigua And Barbuda",2020,160
+"Antigua And Barbuda",2021,4038
+"Palau",2021,8
+"Antigua And Barbuda",2022,4272
+"Kyrgyzstan",2022,16166
+"Kyrgyzstan",2021,102881
+"Guyana",2020,6358
+"Guyana",2021,32512
+"Sierra Leone",2022,505
+"Guyana",2022,26113
+"Kyrgyzstan",2020,81388
+"Sri Lanka",2022,76025
+"Sierra Leone",2021,3832
+"Sri Lanka",2020,44774
+"Cyprus",2022,350628
+"Sierra Leone",2020,2673
+"Sri Lanka",2021,534911
+"Cyprus",2021,146827
+"Taiwan",2020,815
+"Taiwan",2021,16001
+"Taiwan",2022,2875168
+"New Zealand",2021,11300
+"Uganda",2022,19316
+"Uruguay",2020,20823
+"Cyprus",2020,24534
+"New Zealand",2020,1825
+"Uganda",2021,93080
+"Uganda",2020,36050
+"New Zealand",2022,1228563
+"Uruguay",2022,526907
+"Uruguay",2021,383998
+"Philippines",2021,2359770
+"Philippines",2020,477807
+"Philippines",2022,841291
+"Curaçao",2020,4317
+"Malaysia",2022,1761944
+"Curaçao",2022,21352
+"Curaçao",2021,13490
+"Finland",2022,827639
+"Nigeria",2021,133825
+"Finland",2021,249661
+"Nigeria",2020,90080
+"Malaysia",2021,2598137
+"Malaysia",2020,120818
+"Nigeria",2022,12814
+"Moldova",2022,142390
+"Moldova",2021,226327
+"Moldova",2020,145873
+"Saint Kitts And Nevis",2020,33
+"France",2022,19632673
+"France",2021,7639602
+"France",2020,2638404
+"Anguilla",2022,1668
+"Saint Kitts And Nevis",2022,2600
+"Saint Kitts And Nevis",2021,2768
+"Anguilla",2020,15
+"Anguilla",2021,1577
+"Finland",2020,37273
+"Nicaragua",2020,6046
+"Nicaragua",2021,11345
+"Suriname",2020,6393
+"Suriname",2021,45023
+"Suriname",2022,28990
+"Nicaragua",2022,1004
+"United States Of America",2021,30206727
+"United States Of America",2022,30401852
+"Bahamas",2021,15188
+"Timor Leste",2020,44
+"Bahamas",2020,7924
+"Burundi",2022,14931
+"Burundi",2021,21379
+"Burundi",2020,833
+"Armenia",2021,183488
+"Armenia",2020,160220
+"Lesotho",2021,22322
+"Armenia",2022,77970
+"Lesotho",2022,3990
+"Bangladesh",2020,516019
+"Bangladesh",2021,1065064
+"Zimbabwe",2021,177531
+"Zimbabwe",2020,15265
+"Slovenia",2021,341675
+"Slovenia",2020,125961
+"Zimbabwe",2022,39277
+"Bangladesh",2022,370220
+"Slovenia",2022,560740
+"Bhutan",2020,716
+"Singapore",2020,58697
+"Singapore",2021,217213
+"Singapore",2022,1040856
+"Madagascar",2020,17767
+"Bhutan",2021,1941
+"Madagascar",2022,12251
+"Bhutan",2022,56984
+"Madagascar",2021,28027
+"Morocco",2020,443146
+"Argentina",2022,3572475
+"Morocco",2022,208827
+"Portugal",2021,1026434
+"Morocco",2021,509668
+"Portugal",2022,3524512
+"French Polynesia",2021,29416
+"Holy See",2021,0
+"French Polynesia",2022,26724
+"Holy See",2020,26
+"Portugal",2020,411185
+"American Samoa",2021,10
+"Nepal",2020,261859
+"New Caledonia",2021,12479
+"Kazakhstan",2020,207068
+"New Caledonia",2022,49769
+"San Marino",2020,2493
+"Kazakhstan",2021,859866
+"Nepal",2022,150285
+"San Marino",2021,4667
+"American Samoa",2022,6181
+"French Polynesia",2020,16926
+"Kazakhstan",2022,321266
+"Nepal",2021,563877
+"New Caledonia",2020,40
+"San Marino",2022,8637
+"Denmark",2020,128833
+"Denmark",2021,651405
+"Denmark",2022,2047181
+"Eswatini",2020,9943
+"Eswatini",2021,50093
+"Eswatini",2022,6605
+"Montserrat",2022,959
+"Djibouti",2021,7693
+"Montserrat",2021,31
+"Djibouti",2022,2005
+"Montserrat",2020,13
+"Djibouti",2020,5842
+"Australia",2020,28504
+"Australia",2021,222224
+"Australia",2022,7068142
+"United States Virgin Islands",2021,5626
+"United States Virgin Islands",2022,10182
+"United States Virgin Islands",2020,2055
+"Kosovo",2022,66852
+"Montenegro",2020,49195
+"Kosovo",2020,51965
+"Montenegro",2021,111800
+"Kosovo",2021,109300
+"Montenegro",2022,64740
+"Malta",2022,41901
+"Malta",2020,13082
+"Malta",2021,41165
+"Saint Lucia",2022,12722
+"Switzerland",2022,2313232
+"Saint Lucia",2020,353
+"Switzerland",2020,459660
+"Saint Lucia",2021,12813
+"Switzerland",2021,710308
+"Guinea Bissau",2021,4009
+"Tonga",2022,11908
+"Guinea Bissau",2022,1821
+"Guinea Bissau",2020,2447
+"Tonga",2021,1
+"Cameroon",2021,80814
+"Rwanda",2022,16801
+"Cameroon",2022,10580
+"Cameroon",2020,26848
+"Argentina",2020,1640705
+"Argentina",2021,3754339
+"Rwanda",2020,8676
+"Rwanda",2021,92906
+"Canada",2020,601663
+"Jersey",2021,13666
+"Chile",2022,2017822
+"Jersey",2022,31710
+"Chile",2021,1174711
+"Chile",2020,618191
+"Jersey",2020,2821
+"Canada",2022,1750099
+"Canada",2021,1284349
+"El Salvador",2022,42071
+"Fiji",2020,49
+"Botswana",2021,185099
+"Cayman Islands",2020,347
+"Botswana",2020,14765
+"Cayman Islands",2021,7898
+"Falkland Islands (Malvinas)",2022,1652
+"Cayman Islands",2022,16943
+"Falkland Islands (Malvinas)",2021,52
+"Fiji",2022,10208
+"Botswana",2022,90930
+"Falkland Islands (Malvinas)",2020,29
+"Fiji",2021,52602
+"Cuba",2022,138133
+"Bosnia And Herzegovina",2022,85799
+"Bosnia And Herzegovina",2021,172488
+"Cuba",2020,12740
+"Bosnia And Herzegovina",2020,112645
+"Cuba",2021,951436
+"Tunisia",2022,314738
+"Tunisia",2020,143544
+"Tunisia",2021,577559
+"El Salvador",2020,47087
+"El Salvador",2021,74443
+"Ukraine",2022,1338587
+"Ukraine",2021,2536594
+"Ukraine",2020,1074093
+"Papua New Guinea",2021,35207
+"Papua New Guinea",2022,8470
+"Papua New Guinea",2020,799
+"Bulgaria",2022,418675
+"Bermuda",2021,5295
+"Bulgaria",2020,202880
+"Kiribati",2022,3204
+"Bermuda",2022,9008
+"Bulgaria",2021,545304
+"Angola",2020,17642
+"Bermuda",2020,622
+"Faroe Islands",2022,28291
+"Angola",2022,16919
+"Faroe Islands",2021,4115
+"Angola",2021,48226
+"Faroe Islands",2020,620
+"Czechia",2022,1435168
+"Libya",2022,111782
+"Czechia",2020,747132
+"Libya",2020,101975
+"Czechia",2021,1737248
+"Libya",2021,280366
+"Norway",2021,352810
+"Norway",2022,1037042
+"Norway",2020,51535
+"South Korea",2021,506150
+"South Korea",2020,64264
+"Isle Of Man",2020,374
+"Oman",2022,83750
+"South Korea",2022,17587081
+"Oman",2020,129584
+"Oman",2021,175290
+"Chad",2020,2213
+"Chad",2021,3490
+"Isle Of Man",2022,16657
+"Chad",2022,1233
+"Isle Of Man",2021,12723
+"Holy See",2022,2
+"Brazil",2022,9210589
+"Brazil",2021,14480016
+"Brazil",2020,7733746
+"Tajikistan",2021,4193
+"Pakistan",2022,235340
+"Tajikistan",2022,293
+"Pakistan",2021,802938
+"Pakistan",2020,488529
+"Tajikistan",2020,13300
+"Estonia",2022,330505
+"Estonia",2021,198209
+"Estonia",2020,34740
+"Haiti",2021,15790
+"Haiti",2020,10127
+"Haiti",2022,4989
+"Iran",2021,4927545
+"Iran",2022,1036775
+"Algeria",2021,113922
+"Algeria",2020,100408
+"Algeria",2022,48660
+"Maldives",2021,80090
+"Iran",2020,1243434
+"Maldives",2020,13867
+"Peru",2022,1287142
+"Peru",2021,1245147
+"Peru",2020,1021058
+"Mozambique",2020,19309
+"Poland",2021,2810740
+"Latvia",2022,551168
+"Poland",2022,1912649
+"Democratic Republic Of The Congo",2022,12814
+"Liechtenstein",2020,2221
+"Liechtenstein",2021,4017
+"Nauru",2022,3
+"Democratic Republic Of The Congo",2020,18152
+"Liechtenstein",2022,11268
+"Democratic Republic Of The Congo",2021,49146
+"Poland",2020,1294873
+"Austria",2022,3035625
+"Austria",2020,365776
+"Austria",2021,917225
+"Andorra",2020,8192
+"Andorra",2021,12870
+"Andorra",2022,18722
+"Latvia",2021,234522
+"Latvia",2020,42497
+"Grenada",2022,12067
+"Turkey",2022,5526276
+"Grenada",2021,5786
+"Turkey",2021,6912297
+"Grenada",2020,134
+"Turkey",2020,2241912
+"Mozambique",2022,34010
+"Mozambique",2021,141148
+"Costa Rica",2021,396102
+"Costa Rica",2020,172436
+"Costa Rica",2022,334378
+"Japan",2022,7297389
+"Japan",2021,1486117
+"South Sudan",2020,3589
+"Gabon",2021,28225
+"South Sudan",2021,9870
+"Gabon",2020,9605
+"South Sudan",2022,1989
+"Burkina Faso",2022,3267
+"Kenya",2021,167925
+"Kenya",2022,27200
+"Kenya",2020,96802
+"Serbia",2020,343870
+"Uzbekistan",2021,120010
+"Uzbekistan",2022,40090
+"Uzbekistan",2020,77258
+"Serbia",2022,717482
+"Serbia",2021,938591
+"Wallis And Futuna",2020,4
+"Wallis And Futuna",2022,1
+"Wallis And Futuna",2021,449
+"Burkina Faso",2020,7051
+"Equatorial Guinea",2022,2324
+"Burkina Faso",2021,9621
+"Equatorial Guinea",2021,8339
+"Maldives",2022,83927
+"Equatorial Guinea",2020,5279
+"Colombia",2020,1675820
+"Tuvalu",2022,3
+"Colombia",2021,3433202
+"Colombia",2022,926826
+"Bahrain",2022,312443
+"Bahrain",2020,93478
+"Bahrain",2021,185021
+"Guinea",2022,5579
+"Guinea",2020,13799
+"Guinea",2021,17015
+"Mauritania",2021,25289
+"Togo",2021,23040
+"Mauritania",2020,14794
+"Togo",2020,3702
+"Mauritania",2022,17077
+"Togo",2022,5806
+"India",2020,10340469
+"India",2021,24406369
+"United Republic Of Tanzania",2020,509
+"Japan",2020,243847
+"United Republic Of Tanzania",2021,25974
+"United Republic Of Tanzania",2022,5682
+"Iraq",2022,235464
+"Iraq",2020,598369
+"Iraq",2021,1492111
+"Congo",2021,12072
+"Congo",2022,2913
+"India",2022,8307219
+"Congo",2020,7107
+"Cote Divoire",2021,39429
+"Mauritius",2022,135965
+"Cote Divoire",2020,22648
+"Mauritius",2020,527
+"Cote Divoire",2022,10578
+"Mauritius",2021,88347
+"Croatia",2022,418865
+"Myanmar",2022,82427
+"Myanmar",2021,401908
+"Myanmar",2020,126345
+"Croatia",2020,212958
+"Croatia",2021,507993
+"Ghana",2022,15722
+"Ghana",2021,76743
+"Ghana",2020,55168
+"Syria",2020,11710
+"Syria",2021,38041
+"Syria",2022,5569
+"South Africa",2020,1100748
+"South Africa",2021,2207326
+"South Africa",2022,511047
+"Aruba",2020,5564
+"Aruba",2021,11284
+"Aruba",2022,17319
+"Romania",2022,1098203
+"Somalia",2022,3033
+"Ecuador",2022,334277
+"Somalia",2021,18455
+"Ecuador",2021,322418
+"Romania",2020,646721
+"Somalia",2020,4714
+"Ecuador",2020,214614
+"Romania",2021,1167117
+"Sudan",2021,22510
+"Sudan",2020,23316
+"Sudan",2022,15487
+"Mali",2022,9576
+"Mali",2020,7253
+"Mali",2021,12053

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_nXA00FaxEe2vXrVO7Re8ZQ" name="covidDB" id="_Wca78FaxEe2vXrVO7Re8ZQ" label="covidDB" dataPackage="_1f324FhnEe2wPZl3KZiCmw" DatabaseType="PostgreSQL" DriverClass="org.postgresql.Driver" URL="jdbc:postgresql://localhost:5432/covid?" dbVersionString="V9_X" Port="5432" Username="postgres" Password="enc:system.encryption.key.v1:GvPfM7vWiEgnF3A7gYyvcovij/8+clmt65D0hlRTpXWAfg==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="covid" SqlSynthax="" StringQuote="" NullChar="" DbmsId="postgres_id" ProductId="POSTGRESQL" AdditionalParams="" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_nXLM4FaxEe2vXrVO7Re8ZQ" tag="Is Conn Need Reload" value="true"/>
+    <taggedValue xmi:id="_nYgpoFaxEe2vXrVO7Re8ZQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_nYs24FaxEe2vXrVO7Re8ZQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_nYs24VaxEe2vXrVO7Re8ZQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_nYs24laxEe2vXrVO7Re8ZQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_nYs241axEe2vXrVO7Re8ZQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_nYs25FaxEe2vXrVO7Re8ZQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_nYs25VaxEe2vXrVO7Re8ZQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_nZQQgFaxEe2vXrVO7Re8ZQ" tag="DB ProductName" value="PostgreSQL"/>
+    <taggedValue xmi:id="_nZQQgVaxEe2vXrVO7Re8ZQ" tag="DB ProductVersion" value="14.5"/>
+    <taggedValue xmi:id="_nZQQglaxEe2vXrVO7Re8ZQ" tag="DB IdentifierQuoteString" value="&quot;"/>
+    <parameters xmi:id="_nXLM4VaxEe2vXrVO7Re8ZQ" key="CONN_PARA_KEY_USERNAME" value="postgres"/>
+    <parameters xmi:id="__ZRN4Fe3Ee2utJX2p57Xkw" key="CONN_PARA_KEY_MAPRDB_TABLE_NS_MAPPING" value=""/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_1f324FhnEe2wPZl3KZiCmw" name="covid" dataManager="_nXA00FaxEe2vXrVO7Re8ZQ">
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_1f5FAFhnEe2wPZl3KZiCmw" name="information_schema"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_1f5FAVhnEe2wPZl3KZiCmw" name="pg_catalog"/>
+    <ownedElement xsi:type="orgomg.cwm.resource.relational:Schema" xmi:id="_1f5FAlhnEe2wPZl3KZiCmw" name="public"/>
+  </orgomg.cwm.resource.relational:Catalog>
+</xmi:XMI>

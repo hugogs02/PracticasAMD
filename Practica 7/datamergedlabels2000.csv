@@ -1,0 +1,127 @@
+country name;country code;label
+Albania;ALB;0
+Algeria;DZA;0
+Angola;AGO;0
+Argentina;ARG;0
+Armenia;ARM;0
+Australia;AUS;1
+Austria;AUT;1
+Azerbaijan;AZE;0
+Bahrain;BHR;-1
+Bangladesh;BGD;0
+Belarus;BLR;0
+Belgium;BEL;1
+Benin;BEN;0
+Bolivia;BOL;0
+Bosnia and Herzegovina;BIH;0
+Botswana;BWA;0
+Brazil;BRA;0
+Brunei Darussalam;BRN;-1
+Bulgaria;BGR;0
+Cambodia;KHM;0
+Cameroon;CMR;0
+Canada;CAN;2
+Chile;CHL;0
+China;CHN;0
+Colombia;COL;0
+Congo, Dem. Rep.;COD;0
+Congo, Rep.;COG;0
+Costa Rica;CRI;0
+Cote d'Ivoire;CIV;0
+Croatia;HRV;0
+Cuba;CUB;0
+Cyprus;CYP;-1
+Czechia;CZE;0
+Denmark;DNK;1
+Dominican Republic;DOM;0
+Ecuador;ECU;0
+Egypt, Arab Rep.;EGY;0
+El Salvador;SLV;0
+Eritrea;ERI;0
+Estonia;EST;0
+Ethiopia;ETH;0
+Finland;FIN;2
+France;FRA;1
+Gabon;GAB;-1
+Georgia;GEO;0
+Germany;DEU;1
+Ghana;GHA;0
+Guatemala;GTM;0
+Haiti;HTI;0
+Honduras;HND;0
+Hungary;HUN;0
+India;IND;0
+Indonesia;IDN;0
+Iran, Islamic Rep.;IRN;0
+Ireland;IRL;1
+Israel;ISR;1
+Italy;ITA;1
+Jamaica;JAM;0
+Japan;JPN;-1
+Jordan;JOR;0
+Kazakhstan;KAZ;0
+Kenya;KEN;0
+Korea, Rep.;KOR;0
+Kuwait;KWT;-1
+Kyrgyz Republic;KGZ;0
+Latvia;LVA;0
+Lebanon;LBN;-1
+Lithuania;LTU;0
+Luxembourg;LUX;-1
+Malaysia;MYS;0
+Mauritius;MUS;0
+Mexico;MEX;0
+Moldova;MDA;0
+Mongolia;MNG;0
+Morocco;MAR;0
+Mozambique;MOZ;0
+Myanmar;MMR;0
+Namibia;NAM;0
+Nepal;NPL;0
+Netherlands;NLD;1
+New Zealand;NZL;0
+Nicaragua;NIC;0
+Niger;NER;0
+Nigeria;NGA;0
+North Macedonia;MKD;0
+Norway;NOR;-1
+Oman;OMN;0
+Pakistan;PAK;0
+Panama;PAN;0
+Paraguay;PRY;0
+Peru;PER;0
+Philippines;PHL;0
+Poland;POL;0
+Portugal;PRT;0
+Qatar;QAT;-1
+Romania;ROU;0
+Russian Federation;RUS;0
+Saudi Arabia;SAU;-1
+Senegal;SEN;0
+Singapore;SGP;1
+Slovak Republic;SVK;0
+Slovenia;SVN;0
+South Africa;ZAF;0
+Spain;ESP;0
+Sri Lanka;LKA;0
+Suriname;SUR;0
+Sweden;SWE;2
+Switzerland;CHE;-1
+Syrian Arab Republic;SYR;0
+Tanzania;TZA;0
+Thailand;THA;0
+Togo;TGO;0
+Trinidad and Tobago;TTO;0
+Tunisia;TUN;0
+Turkiye;TUR;0
+Turkmenistan;TKM;0
+Ukraine;UKR;0
+United Arab Emirates;ARE;-1
+United Kingdom;GBR;1
+United States;USA;-1
+Uruguay;URY;0
+Uzbekistan;UZB;0
+Venezuela, RB;VEN;0
+Vietnam;VNM;0
+Yemen, Rep.;YEM;0
+Zambia;ZMB;0

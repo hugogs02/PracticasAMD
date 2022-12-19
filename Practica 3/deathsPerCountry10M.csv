@@ -1,0 +1,271 @@
+country;year;totalDeaths
+Afghanistan                        ;2020;2230
+Afghanistan                        ;2021;5105
+Afghanistan                        ;2022;349
+Algeria                            ;2020;2772
+Algeria                            ;2021;3408
+Algeria                            ;2022;621
+Angola                             ;2020;408
+Angola                             ;2021;1330
+Angola                             ;2022;128
+Argentina                          ;2020;43482
+Argentina                          ;2021;73448
+Argentina                          ;2022;11749
+Australia                          ;2020;909
+Australia                          ;2021;1237
+Australia                          ;2022;6691
+Azerbaijan                         ;2020;2733
+Azerbaijan                         ;2021;5466
+Azerbaijan                         ;2022;1340
+Bangladesh                         ;2020;7626
+Bangladesh                         ;2021;20422
+Bangladesh                         ;2022;1069
+Belgium                            ;2020;19748
+Belgium                            ;2021;8232
+Belgium                            ;2022;3321
+Benin                              ;2020;44
+Benin                              ;2021;117
+Benin                              ;2022;2
+Bolivia                            ;2020;9201
+Bolivia                            ;2021;10239
+Bolivia                            ;2022;2374
+Brazil                             ;2020;196018
+Brazil                             ;2021;421785
+Brazil                             ;2022;49576
+Burkina Faso                       ;2020;86
+Burkina Faso                       ;2021;210
+Burkina Faso                       ;2022;66
+Burundi                            ;2020;2
+Burundi                            ;2021;12
+Burundi                            ;2022;1
+Cambodia                           ;2020;0
+Cambodia                           ;2021;3005
+Cambodia                           ;2022;43
+Cameroon                           ;2020;448
+Cameroon                           ;2021;1388
+Cameroon                           ;2022;79
+Canada                             ;2020;15865
+Canada                             ;2021;14185
+Canada                             ;2022;11190
+Chad                               ;2020;104
+Chad                               ;2021;77
+Chad                               ;2022;9
+Chile                              ;2020;16767
+Chile                              ;2021;22118
+Chile                              ;2022;18936
+China                              ;2020;4785
+China                              ;2021;64
+China                              ;2022;9767
+Colombia                           ;2020;43965
+Colombia                           ;2021;85522
+Colombia                           ;2022;9833
+Cote Divoire                       ;2020;138
+Cote Divoire                       ;2021;568
+Cote Divoire                       ;2022;81
+Cuba                               ;2020;147
+Cuba                               ;2021;8168
+Cuba                               ;2022;205
+Czechia                            ;2020;12461
+Czechia                            ;2021;23933
+Czechia                            ;2022;3847
+Democratic Republic Of The Congo   ;2020;598
+Democratic Republic Of The Congo   ;2021;528
+Democratic Republic Of The Congo   ;2022;120
+Dominican Republic                 ;2020;2418
+Dominican Republic                 ;2021;1805
+Dominican Republic                 ;2022;131
+Ecuador                            ;2020;14059
+Ecuador                            ;2021;19538
+Ecuador                            ;2022;1966
+Egypt                              ;2020;7805
+Egypt                              ;2021;13556
+Egypt                              ;2022;2923
+Ethiopia                           ;2020;1948
+Ethiopia                           ;2021;4918
+Ethiopia                           ;2022;558
+France                             ;2020;72205
+France                             ;2021;65078
+France                             ;2022;25492
+Germany                            ;2020;43978
+Germany                            ;2021;71930
+Germany                            ;2022;24002
+Ghana                              ;2020;335
+Ghana                              ;2021;920
+Ghana                              ;2022;139
+Greece                             ;2020;5002
+Greece                             ;2021;16006
+Greece                             ;2022;9020
+Guatemala                          ;2020;4835
+Guatemala                          ;2021;11242
+Guatemala                          ;2022;2183
+Guinea                             ;2020;81
+Guinea                             ;2021;307
+Guinea                             ;2022;53
+Haiti                              ;2020;236
+Haiti                              ;2021;529
+Haiti                              ;2022;69
+India                              ;2020;149649
+India                              ;2021;327905
+India                              ;2022;42878
+Indonesia                          ;2020;22555
+Indonesia                          ;2021;121447
+Indonesia                          ;2022;12555
+Iran                               ;2020;55540
+Iran                               ;2021;75543
+Iran                               ;2022;9670
+Iraq                               ;2020;12844
+Iraq                               ;2021;11219
+Iraq                               ;2022;1048
+Italy                              ;2020;79357
+Italy                              ;2021;59962
+Italy                              ;2022;29419
+Japan                              ;2020;3599
+Japan                              ;2021;14780
+Japan                              ;2022;12488
+Jordan                             ;2020;3903
+Jordan                             ;2021;8365
+Jordan                             ;2022;1358
+Kazakhstan                         ;2020;2775
+Kazakhstan                         ;2021;15341
+Kazakhstan                         ;2022;773
+Kenya                              ;2020;1685
+Kenya                              ;2021;3668
+Kenya                              ;2022;257
+Madagascar                         ;2020;262
+Madagascar                         ;2021;718
+Madagascar                         ;2022;329
+Malawi                             ;2020;195
+Malawi                             ;2021;2116
+Malawi                             ;2022;271
+Malaysia                           ;2020;501
+Malaysia                           ;2021;30634
+Malaysia                           ;2022;4180
+Mali                               ;2020;278
+Mali                               ;2021;361
+Mali                               ;2022;67
+Mexico                             ;2020;127213
+Mexico                             ;2021;170703
+Mexico                             ;2022;25650
+Morocco                            ;2020;7485
+Morocco                            ;2021;7324
+Morocco                            ;2022;1227
+Mozambique                         ;2020;169
+Mozambique                         ;2021;1783
+Mozambique                         ;2022;187
+Myanmar                            ;2020;2728
+Myanmar                            ;2021;16492
+Myanmar                            ;2022;160
+Nepal                              ;2020;1878
+Nepal                              ;2021;9695
+Nepal                              ;2022;356
+Netherlands                        ;2020;12166
+Netherlands                        ;2021;8926
+Netherlands                        ;2022;1244
+Niger                              ;2020;110
+Niger                              ;2021;162
+Niger                              ;2022;36
+Nigeria                            ;2020;1311
+Nigeria                            ;2021;1674
+Nigeria                            ;2022;105
+Pakistan                           ;2020;10350
+Pakistan                           ;2021;18528
+Pakistan                           ;2022;1448
+Peru                               ;2020;94060
+Peru                               ;2021;108235
+Peru                               ;2022;10520
+Philippines                        ;2020;9257
+Philippines                        ;2021;41482
+Philippines                        ;2022;8891
+Poland                             ;2020;29179
+Poland                             ;2021;68795
+Poland                             ;2022;18770
+Portugal                           ;2020;7223
+Portugal                           ;2021;11776
+Portugal                           ;2022;4665
+Romania                            ;2020;18456
+Romania                            ;2021;40515
+Romania                            ;2022;6725
+Russia                             ;2020;58988
+Russia                             ;2021;239234
+Russia                             ;2022;68723
+Rwanda                             ;2020;101
+Rwanda                             ;2021;1243
+Rwanda                             ;2022;104
+Saudi Arabia                       ;2020;6256
+Saudi Arabia                       ;2021;2606
+Saudi Arabia                       ;2022;437
+Senegal                            ;2020;424
+Senegal                            ;2021;1462
+Senegal                            ;2022;77
+Somalia                            ;2020;130
+Somalia                            ;2021;1203
+Somalia                            ;2022;28
+South Africa                       ;2020;29577
+South Africa                       ;2021;60771
+South Africa                       ;2022;10311
+South Korea                        ;2020;981
+South Korea                        ;2021;3795
+South Korea                        ;2022;18658
+South Sudan                        ;2020;63
+South Sudan                        ;2021;70
+South Sudan                        ;2022;2
+Spain                              ;2020;55397
+Spain                              ;2021;36560
+Spain                              ;2022;15315
+Sri Lanka                          ;2020;213
+Sri Lanka                          ;2021;14539
+Sri Lanka                          ;2022;1500
+Sudan                              ;2020;1468
+Sudan                              ;2021;1826
+Sudan                              ;2022;1613
+Sweden                             ;2020;10088
+Sweden                             ;2021;5305
+Sweden                             ;2022;3656
+Syria                              ;2020;729
+Syria                              ;2021;2116
+Syria                              ;2022;245
+Taiwan                             ;2020;7
+Taiwan                             ;2021;843
+Taiwan                             ;2022;3321
+Thailand                           ;2020;65
+Thailand                           ;2021;21343
+Thailand                           ;2022;8611
+Tunisia                            ;2020;4800
+Tunisia                            ;2021;20675
+Tunisia                            ;2022;3060
+Turkey                             ;2020;21488
+Turkey                             ;2021;58756
+Turkey                             ;2022;16341
+Uganda                             ;2020;274
+Uganda                             ;2021;2998
+Uganda                             ;2022;298
+Ukraine                            ;2020;18854
+Ukraine                            ;2021;74408
+Ukraine                            ;2022;12304
+United Kingdom                     ;2020;78858
+United Kingdom                     ;2021;70258
+United Kingdom                     ;2022;29016
+United Republic Of Tanzania        ;2020;21
+United Republic Of Tanzania        ;2021;713
+United Republic Of Tanzania        ;2022;103
+United States Of America           ;2020;351590
+United States Of America           ;2021;454847
+United States Of America           ;2022;185212
+Uzbekistan                         ;2020;614
+Uzbekistan                         ;2021;847
+Uzbekistan                         ;2022;152
+Venezuela                          ;2020;1038
+Venezuela                          ;2021;4240
+Venezuela                          ;2022;408
+Vietnam                            ;2020;35
+Vietnam                            ;2021;29531
+Vietnam                            ;2022;10062
+Yemen                              ;2020;611
+Yemen                              ;2021;1365
+Yemen                              ;2022;165
+Zambia                             ;2020;398
+Zambia                             ;2021;3281
+Zambia                             ;2022;246
+Zimbabwe                           ;2020;380
+Zimbabwe                           ;2021;4407
+Zimbabwe                           ;2022;489

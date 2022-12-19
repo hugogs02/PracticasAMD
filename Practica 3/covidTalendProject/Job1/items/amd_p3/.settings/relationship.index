@@ -1,0 +1,16 @@
+[ {
+  "baseItem" : {
+    "id" : "__HfPIFarEe2vXrVO7Re8ZQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Wca78FaxEe2vXrVO7Re8ZQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_y7H7EFfLEe2utJX2p57Xkw - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
